@@ -1,0 +1,8 @@
+Write a program to print number of block in below matrix.
+{0,1,1,0,0,1}
+{0,1,1,0,0,0}
+{0,1,1,0,1,1}
+{0,1,1,0,0,0}
+{0,1,1,0,0,1}
+
+//output: 4
