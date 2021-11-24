@@ -44,3 +44,6 @@ public class FindDuplicatedInArray
 		}
 	}
 }
+
+// Time Complexity: O(N)
+// Auxiliary Space: O(N)
